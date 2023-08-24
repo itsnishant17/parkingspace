@@ -8,5 +8,5 @@ Parking space detection using OpenCV and Python involves capturing images or vid
 
 ## Screenshots
 
-![Alt text](Parking Space Detection.png)
+![Alt text]([Parking Space Detection.png](https://github.com/itsnishant17/parkingspace/blob/main/Parking%20Space%20Detection.png)https://github.com/itsnishant17/parkingspace/blob/main/Parking%20Space%20Detection.png)
 
